@@ -64,13 +64,13 @@ PotHoleDetectionYOLOv8/
 │   ├── static/results            # Output image  
 │   ├── uploads/                  # User uploaded image 
 │   └── yolov8_model.py           # YOLO model
+│   └── requirements.txt          # requirements
 │   
 ├── Frontend/
 │   ├── public/
 │   ├── src/
 │   ├── app.jsx     #all the frontend codes
 │   └── ...
-├── requirements.txt
 ├── README.md
 └── LICENSE
 ```
