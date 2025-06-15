@@ -11,7 +11,7 @@ A deep learning-based pothole detection project using [YOLOv8](https://github.co
 1. Create a virtual environment:
    ```bash
    python -m venv venv
-   source venv/Sctripts/activate
+   venv/Sctripts/activate
    ```
 
 2. Install required dependencies:
