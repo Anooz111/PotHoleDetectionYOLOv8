@@ -1,1 +1,11 @@
-*.env
+
+# Python virtual environment
+venv/
+.env*
+__pycache__/
+*.py[cod]
+
+# VSCode or editor files (optional but recommended)
+.vscode/
+*.swp
+.DS_Store
